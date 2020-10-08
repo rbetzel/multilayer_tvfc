@@ -1,0 +1,8 @@
+{
+    "ts": "./ts.h5",
+    "gamma": [[0]],
+    "omega": [[1]],
+    "winsz": [[60]],
+    "outnamecomm": "comm.csv",
+    "outnameflex": "flex.csv"
+}
